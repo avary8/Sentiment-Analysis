@@ -1,0 +1,8 @@
+pandas
+seaborn
+matplotlib
+nltk
+spacy
+contractions
+sklearn
+gensim
